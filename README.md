@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nisarg Pandya</h1>
 <h3 align="center">Business Consultant | Software Engineer | Data Analyst</h3>
 
-<img align ="right"> alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
+<img align ="right"> alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" <img>
 
 - 🔭 I’m currently working on **E-Commerce Supply Chain Analysis with**
 
