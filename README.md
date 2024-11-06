@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Nisarg Pandya</h1>
 <h3 align="center">Business Consultant | Software Engineer | Data Analyst</h3>
 
-<img align ="right"> alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" <img>
+<img align ="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🔭 I’m currently working on **E-Commerce Supply Chain Analysis with**
+- 🔭 I’m currently working on **E-Commerce Supply Chain Analysis with Walmart Canada**
 
 - 🌱 I’m currently learning **Deep Learning, Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ChiefNisarg](https://github.com/ChiefNisarg)
 
-- 💬 Ask me about **R,Python,**
+- 💬 Ask me about **R, Python, Power BI**
 
 - 📫 How to reach me **nisargpandya0112@gmail.com**
 
